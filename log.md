@@ -9,3 +9,10 @@
 
 **Link to work:** -
 https://github.com/zSupremoz/PvZ-Shooter-Randomizer
+
+### Day 2: May 13, 2020
+
+
+**Today's Progess**: - Added more funcionality to my Randomizer program.
+
+**Thoughts:** - I spent a little more than an hour to get all that I needed to get done today, but I was fine with it at the end of the day.
