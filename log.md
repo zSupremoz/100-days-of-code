@@ -37,3 +37,17 @@ https://github.com/zSupremoz/PvZ-Shooter-Randomizer
 
 **Link to work:** -
 https://github.com/zSupremoz/PvZ-Shooter-Randomizer/releases/tag/v0.3-pr1
+
+### Day 6: May 17, 2020
+
+**Today's Progress**: - Overhauled the design for my GitHub page.
+
+**Thoughts:** - Looks way better than it did compared to when it first started out.
+
+### Day 7: May 18, 2020
+
+**Today's Progress**: - GitHub page has been made available to the public.
+
+**Thoughts:** - I want to learn some more about web development for future plans.
+
+**Link to work:** - Source: https://github.com/zSupremoz/zsupremoz.github.io | Webpage: https://zsupremoz.github.io/
