@@ -51,3 +51,21 @@ https://github.com/zSupremoz/PvZ-Shooter-Randomizer/releases/tag/v0.3-pr1
 **Thoughts:** - I want to learn some more about web development for future plans.
 
 **Link to work:** - Source: https://github.com/zSupremoz/zsupremoz.github.io | Webpage: https://zsupremoz.github.io/
+
+### Day 8: May 19, 2020
+
+**Today's Progress**: - Started work on a web version of my PvZ Shooter Randomizer.
+
+**Thoughts:** - I'll put more focus towards that until I can get the desktop and web version to similar versions.
+
+### Day 9: May 20, 2020
+
+**Today's Progress**: - Got a Battle for Neighborville character randomizer to work.
+
+**Thoughts:** - I wanted to try to make it look better before making it public.
+
+### Day 10: May 21, 2020
+
+**Today's Progress** - Made my Battle for Neighborville character randomizer public. Same for a nearly completed version of the Garden Warfare 1 randomizer.
+
+**Thoughts:** - Next I want to add images to the Garden Warfare 1 randomizer then start work on the Garden Warfare 2 randomizer.
