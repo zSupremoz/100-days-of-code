@@ -69,3 +69,15 @@ https://github.com/zSupremoz/PvZ-Shooter-Randomizer/releases/tag/v0.3-pr1
 **Today's Progress** - Made my Battle for Neighborville character randomizer public. Same for a nearly completed version of the Garden Warfare 1 randomizer.
 
 **Thoughts:** - Next I want to add images to the Garden Warfare 1 randomizer then start work on the Garden Warfare 2 randomizer.
+
+### Day 11: May 22, 2020
+
+**Today's Progress** - Added partial support for the GW2 Character Randomizer.
+
+**Thoughts:** - Soon plan to add full support for GW1 + 2.
+
+### Day 12: May 23, 2020
+
+**Today's Progress** - Added full support for the GW2 Character Randomizer.
+
+**Thoughts:** - Last thing I plan to do to it for now is finish the GW1 Character Randomizer
