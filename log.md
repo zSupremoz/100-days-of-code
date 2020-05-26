@@ -81,3 +81,15 @@ https://github.com/zSupremoz/PvZ-Shooter-Randomizer/releases/tag/v0.3-pr1
 **Today's Progress** - Added full support for the GW2 Character Randomizer.
 
 **Thoughts:** - Last thing I plan to do to it for now is finish the GW1 Character Randomizer
+
+### Day 13: May 25, 2020
+
+**Today's Progress** - Cleaned up some code on the Desktop Randomizer for my sanity.
+
+**Thoughts:** - I should really start working on that again soon.
+
+### Day 14: May 26, 2020
+
+**Today's Progress** - Finished up my Garden Warfare 1 Randomizer for the website.
+
+**Thoughts:** - With the main functionality done I plan on slowly returning to my desktop randomizer more to add more to it.
