@@ -93,3 +93,21 @@ https://github.com/zSupremoz/PvZ-Shooter-Randomizer/releases/tag/v0.3-pr1
 **Today's Progress** - Finished up my Garden Warfare 1 Randomizer for the website.
 
 **Thoughts:** - With the main functionality done I plan on slowly returning to my desktop randomizer more to add more to it.
+
+### Day 15: May 27, 2020
+
+**Today's Progress** - Decided to pick up learning C again because I just dropped the language at some point.
+
+**Thoughts:** - Might try learning C++ after I get the basics of C done.
+
+### Day 16: May 28, 2020
+
+**Today's Progress** - Today I learned that it's much easier to learn a programming language if you take the material you're learning and apply it to some stuff you make.
+
+**Thoughts:** - I'm surprised I only learned this now considering I've been doing programming for nearly a year now.
+
+### Day 17: May 29, 2020
+
+**Today's Progress** - Learning is going smoothly still. Regularly forgetting my ampersands though.
+
+**Thougths:** - Kept thinking that the scanf() function wasn't good to use until I realized I was using it wrong the whole time.
